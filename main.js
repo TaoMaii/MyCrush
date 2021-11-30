@@ -117,25 +117,6 @@ document.onmousewheel = function(e) {
   radius += d;
   init(1);
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var canvas = document.getElementById("canvas");
 
 canvas.width = window.innerWidth;
